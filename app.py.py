@@ -50,3 +50,4 @@ if query:
         st.markdown("### 💡 Jawaban:")
         st.write(answer)
 Delete app_consultaxai.py (replaced by app.py)
+Delete app.py.py
