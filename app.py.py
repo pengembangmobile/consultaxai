@@ -40,7 +40,7 @@ qa = RetrievalQA.from_chain_type(
 # Streamlit UI
 st.set_page_config(page_title="ConsultaxAI", page_icon="💬")
 st.title("🤖 ConsultaxAI – Konsultan Pajak AI")
-st.markdown("Tanyakan apa pun seputar **PPh Orang Pribadi**, berdasarkan FAQ dan referensi resmi.")
+st.markdown("Tanyakan apa pun seputar **PPh**")
 
 query = st.text_input("Pertanyaan Anda")
 
